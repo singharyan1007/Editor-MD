@@ -10,8 +10,8 @@ const Editor=({mdinput,setmdinput,togglecolormode,togglemdfontsize})=> {
         setmdinput(y);
     }
   return (
-    <div>
-        <textarea placeholder='Type some Markdown code here.' style={{
+    <div className='flex'>
+        <textarea className='p-3.5' placeholder='Type some Markdown code here.' style={{
             background:togglecolormode?'#191e2a':'#fff',
             color:togglecolormode?'#fff':'#000',
             border:togglecolormode?'3px solid #fff':'3px solid #000'
