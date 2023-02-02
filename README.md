@@ -9,5 +9,5 @@
 
 
 ### Info
--Built using ReactJS
--Deployed by ▲ Vercel
+- Built using ReactJS
+- Deployed by ▲ Vercel
