@@ -1,8 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
 
 * {
     font-family: sans-serif;
@@ -497,4 +492,3 @@ img::selection {
   outline: none !important;
   border: solid 3px #ffb13c !important;
 }
-
